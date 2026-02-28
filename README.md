@@ -77,7 +77,7 @@ Clean quad topology across all views — ensuring the geometry holds up under su
 
 | Front Orthographic | Close-up 3/4 View | Top-Down |
 |-------------------|------------------|----------|
-| ![Wireframe Front](Screenshot_2026-02-28_210036.png) | ![Wireframe 3/4](Screenshot_2026-02-28_210210.png) | ![Wireframe Top](Screenshot_2026-02-28_210246.png) |
+| ![Wireframe Front](wireframe-front.png) | ![Wireframe 3/4](wireframe-side.png) | ![Wireframe Top](wireframe-top.png) |
 
 ---
 
