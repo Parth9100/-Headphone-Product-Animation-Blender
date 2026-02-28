@@ -93,9 +93,9 @@ Clean quad topology across all views — ensuring the geometry holds up under su
 
 Interested in 3D product visualization or animation work?
 
-- **LinkedIn:** [Your LinkedIn]
-- **Instagram:** [Your Instagram]
-- **Email:** [Your Email]
+- **LinkedIn:** [Parth Joshi](linkedin.com/in/parth-joshi-555943245)
+- **Instagram:** [parthjoshi007](https://www.instagram.com/parthjoshi007/)
+- **Email:** parthjoshi910@gmail.com
 
 ---
 
